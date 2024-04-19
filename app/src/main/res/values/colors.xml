@@ -1,0 +1,11 @@
+<resources>
+    <!-- Colors for AppTheme -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors for DarkTheme -->
+    <color name="darkPrimary">#000000</color>
+    <color name="darkPrimaryDark">#303030</color>
+    <color name="darkAccent">#FF0000</color>
+</resources>
